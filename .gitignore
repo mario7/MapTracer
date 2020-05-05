@@ -1,2 +1,2 @@
-debug/
-release/
+MapTrace/app/src/debug/*
+MapTrace/app/src/release/*
